@@ -1,3 +1,4 @@
+ //Occhio Clorophilla Carnival 2025
 // Definizione dei pin per la CNC Shield V3 e i driver A4988
 #define STEP_PIN1 2   // STEP per motore 1
 #define DIR_PIN1 5    // DIR per motore 1
